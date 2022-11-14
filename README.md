@@ -1,5 +1,5 @@
-### 👋 Howdy all, I’m Nicolas Layne!
-I'm currently a senior at Prairie View A&M University about to obtain my B.S. in Computer Science (check back in with me on that in May 2022!). I love any sort of software development/engineering, but have the most experience with web development (front-end, back-end, and full-stack are all good with me!).
+### 👋 Howdy all, I’m Nicolas Layne - Microsoft SWE!
+Nice to meet ya - I'm the friendly neighborhood front-end-specializing software engineer! I love building and learning about things with a team of equally curious folks - it's really that simple!
 
 Feel free to check out my personal website or LinkedIn below:
 
